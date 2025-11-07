@@ -1,12 +1,13 @@
 {
-	"name": "reactfolio",
+	"name": "kalibbalajosephportfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "kalibbala joseph",
+		"email": "abatinovations@gmail.com",
+		"url": "https://josephkplp.github.io/kalibbalajoseph.github.io/"
 	},
+	"homepage": "https://josephkplp.github.io/kalibbalajoseph.github.io/",
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
@@ -23,13 +24,15 @@
 		"react-ga4": "^2.1.0",
 		"react-helmet": "^6.1.0",
 		"react-router-dom": "^6.11.1",
-		"react-scripts": "5.0.1",
+		"react-scripts": "^5.0.1",
 		"styled-components": "^5.3.10",
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
 	},
@@ -54,5 +57,8 @@
 	"prettier": {
 		"useTabs": true,
 		"tabWidth": 4
+	},
+	"devDependencies": {
+		"gh-pages": "^6.3.0"
 	}
 }
