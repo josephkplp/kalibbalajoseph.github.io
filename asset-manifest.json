@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kalibbalajoseph.github.io/static/css/main.c1ea095c.css",
-    "main.js": "/kalibbalajoseph.github.io/static/js/main.55aab323.js",
+    "main.js": "/kalibbalajoseph.github.io/static/js/main.5c817fb2.js",
     "static/js/453.927729c1.chunk.js": "/kalibbalajoseph.github.io/static/js/453.927729c1.chunk.js",
     "index.html": "/kalibbalajoseph.github.io/index.html",
     "main.c1ea095c.css.map": "/kalibbalajoseph.github.io/static/css/main.c1ea095c.css.map",
-    "main.55aab323.js.map": "/kalibbalajoseph.github.io/static/js/main.55aab323.js.map",
+    "main.5c817fb2.js.map": "/kalibbalajoseph.github.io/static/js/main.5c817fb2.js.map",
     "453.927729c1.chunk.js.map": "/kalibbalajoseph.github.io/static/js/453.927729c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ea095c.css",
-    "static/js/main.55aab323.js"
+    "static/js/main.5c817fb2.js"
   ]
 }
